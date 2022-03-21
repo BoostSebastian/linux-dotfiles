@@ -8,7 +8,7 @@ Linux Bootstrap Script
 
 This repo previously contained my entire provisioning solution for a new machine running Linux. I've now extracted the provisioning functionality into its own repository. Check it out:
 
-&#9657; **Provision a new machine with [Linux Bootstrap](https://github.com/joshukraine/linux-bootstrap).**
+&#9657; **Provision a new machine with [Linux Bootstrap](https://github.com/boostsebastian/linux-bootstrap).**
 
 NOTE: Linux Bootstrap automatically clones and installs this dotfiles repo.
 
@@ -25,13 +25,13 @@ The dotfiles assume you are running Ubuntu 14.04 (or similar) with the following
 * [Ruby](https://www.ruby-lang.org/en/)
 * [rbenv](https://github.com/sstephenson/rbenv)
 
-All of the above and more are included in [Linux Bootstrap](https://github.com/joshukraine/linux-bootstrap).
+All of the above and more are included in [Linux Bootstrap](https://github.com/boostsebastian/linux-bootstrap).
 
 Installation
 ------------
 
 ```sh
-git clone https://github.com/joshukraine/linux-dotfiles.git ~/dotfiles
+git clone https://github.com/boostsebastian/linux-dotfiles.git ~/dotfiles
 source ~/dotfiles/install.sh
 ```
 
@@ -77,4 +77,4 @@ Helpful web resources on dotfiles, et al.
 License
 -------
 
-Copyright (c) 2016 Joshua Steele. [MIT License](https://github.com/joshukraine/linux-dotfiles/blob/master/LICENSE)
+Copyright (c) 2016 Joshua Steele. [MIT License](https://github.com/boostsebastian/linux-dotfiles/blob/master/LICENSE)
