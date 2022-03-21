@@ -77,4 +77,4 @@ Helpful web resources on dotfiles, et al.
 License
 -------
 
-Copyright (c) 2016 Joshua Steele. [MIT License](https://github.com/boostsebastian/linux-dotfiles/blob/master/LICENSE)
+Copyright (c) 2016 Sebastian Thörngren. [MIT License](https://github.com/boostsebastian/linux-dotfiles/blob/master/LICENSE)
